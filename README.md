@@ -1,5 +1,8 @@
 # 💫 About Me:
-Full stack software engineer to be 
+* 🎓 BA in Business Management 
+* 💻 Full-stack Software Engineer to be
+* 🏀 Basketball Enthusiast
+* 🎮 Competitive E-sports Gamer 
 
 
 ## 🌐 Socials:
